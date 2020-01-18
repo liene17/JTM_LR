@@ -2,6 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7badf164-9fcc-4792-a07c-81912c937e31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/ArrayLeaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/ArrayLeadersTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/DiceHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/DiceHistogramTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/EqualSidesArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/EqualSidesArrayTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/EvenNumbersTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/JosephusSurvivor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/JosephusSurvivorTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/MaxMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/MaxMultipleTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/PhoneNumberTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/SupermarketQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/SupermarketQueueTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/TODO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/TenMinWalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/tasks/fundamentals/TenMinWalkTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +58,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="JUnit.EvenNumbersTest1">
+  <component name="RunManager" selected="JUnit.DiceHistogramTest1">
     <configuration name="DiceHistogramTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
       <extension name="coverage">
@@ -117,8 +136,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EvenNumbersTest1" />
         <item itemvalue="JUnit.DiceHistogramTest1" />
+        <item itemvalue="JUnit.EvenNumbersTest1" />
         <item itemvalue="JUnit.PhoneNumberTest1" />
         <item itemvalue="JUnit.MaxMultipleTest1" />
         <item itemvalue="JUnit.RandomPersonTest1" />
@@ -197,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579351157519</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fundementals">
+      <created>1579351294388</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579351294388</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -212,26 +238,26 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="608" y="125" width="376" height="626" key="#com.intellij.ide.util.MemberChooser/0.0.1600.876@0.0.1600.876" timestamp="1579335364449" />
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1579351157455">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1579351640210">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1579351157455" />
-    <state width="1372" height="206" key="GridCell.Tab.0.bottom" timestamp="1579351003845">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1579351640210" />
+    <state width="1372" height="206" key="GridCell.Tab.0.bottom" timestamp="1579351661537">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1579351003845" />
-    <state width="1372" height="206" key="GridCell.Tab.0.center" timestamp="1579351003843">
+    <state width="1372" height="206" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1579351661537" />
+    <state width="1372" height="206" key="GridCell.Tab.0.center" timestamp="1579351661536">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1579351003843" />
-    <state width="1372" height="206" key="GridCell.Tab.0.left" timestamp="1579351003842">
+    <state width="1372" height="206" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1579351661536" />
+    <state width="1372" height="206" key="GridCell.Tab.0.left" timestamp="1579351661536">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1579351003842" />
-    <state width="1372" height="206" key="GridCell.Tab.0.right" timestamp="1579351003844">
+    <state width="1372" height="206" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1579351661536" />
+    <state width="1372" height="206" key="GridCell.Tab.0.right" timestamp="1579351661537">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1579351003844" />
+    <state width="1372" height="206" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1579351661537" />
     <state x="562" y="197" width="434" height="484" key="RefactorJ.WrapReturnValue" timestamp="1579341329367">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -244,10 +270,10 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="289" y="73" key="SettingsEditor/0.0.1600.876@0.0.1600.876" timestamp="1578942843748" />
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579351161075">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579351310560">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1579351161075" />
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1579351310560" />
     <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1579338756374">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
