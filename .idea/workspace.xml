@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7badf164-9fcc-4792-a07c-81912c937e31" name="Default Changelist" comment="Hello 2">
+    <list default="true" id="7badf164-9fcc-4792-a07c-81912c937e31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/extra01/GetOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/extra01/GetOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/JTM.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/JTM.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity03/RandomPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity03/RandomPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity03/RandomPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity03/RandomPerson.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/jtm/extra01/GetOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/extra01/GetOne.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,102 +43,89 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="JUnit.GetOneTest1">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jtm.activity02.Hello" />
+  <component name="RunManager" selected="JUnit.EvenNumbersTest1">
+    <configuration name="DiceHistogramTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jtm.activity02.*" />
+          <option name="PATTERN" value="jtm.tasks.fundamentals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetOneTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JTM_LR" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jtm.extra01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jtm.extra01" />
-      <option name="MAIN_CLASS_NAME" value="jtm.extra01.GetOneTest1" />
+      <option name="PACKAGE_NAME" value="jtm.tasks.fundamentals" />
+      <option name="MAIN_CLASS_NAME" value="jtm.tasks.fundamentals.DiceHistogramTest1" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EvenNumbersTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jtm.activity02.*" />
+          <option name="PATTERN" value="jtm.tasks.fundamentals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jtm.activity02" />
-      <option name="MAIN_CLASS_NAME" value="jtm.activity02.HelloTest1" />
+      <option name="PACKAGE_NAME" value="jtm.tasks.fundamentals" />
+      <option name="MAIN_CLASS_NAME" value="jtm.tasks.fundamentals.EvenNumbersTest1" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration name="MaxMultipleTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jtm.tasks.fundamentals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jtm.tasks.fundamentals" />
+      <option name="MAIN_CLASS_NAME" value="jtm.tasks.fundamentals.MaxMultipleTest1" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration name="PhoneNumberTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jtm.tasks.fundamentals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jtm.tasks.fundamentals" />
+      <option name="MAIN_CLASS_NAME" value="jtm.tasks.fundamentals.PhoneNumberTest1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomPersonTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JTM_LR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jtm.activity03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jtm.activity03" />
+      <option name="MAIN_CLASS_NAME" value="jtm.activity03.RandomPersonTest1" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GetOneTest1" />
-        <item itemvalue="JUnit.HelloTest1" />
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="JUnit.EvenNumbersTest1" />
+        <item itemvalue="JUnit.DiceHistogramTest1" />
+        <item itemvalue="JUnit.PhoneNumberTest1" />
+        <item itemvalue="JUnit.MaxMultipleTest1" />
+        <item itemvalue="JUnit.RandomPersonTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -184,35 +173,51 @@
       <option name="project" value="LOCAL" />
       <updated>1579112694168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Extra1">
+      <created>1579116421825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579116421825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello" />
     <MESSAGE value="Hello 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello 2" />
+    <MESSAGE value="Extra1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extra1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1579113687725">
+    <state x="608" y="125" width="376" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1579335364449">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1579113687725" />
-    <state width="1352" height="206" key="GridCell.Tab.0.bottom" timestamp="1579115545665">
+    <state x="608" y="125" width="376" height="626" key="#com.intellij.ide.util.MemberChooser/0.0.1600.876@0.0.1600.876" timestamp="1579335364449" />
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1579116421716">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1352" height="206" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1579115545665" />
-    <state width="1352" height="206" key="GridCell.Tab.0.center" timestamp="1579115545664">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1579116421716" />
+    <state width="1372" height="206" key="GridCell.Tab.0.bottom" timestamp="1579351003845">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1352" height="206" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1579115545664" />
-    <state width="1352" height="206" key="GridCell.Tab.0.left" timestamp="1579115545664">
+    <state width="1372" height="206" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1579351003845" />
+    <state width="1372" height="206" key="GridCell.Tab.0.center" timestamp="1579351003843">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1352" height="206" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1579115545664" />
-    <state width="1352" height="206" key="GridCell.Tab.0.right" timestamp="1579115545665">
+    <state width="1372" height="206" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1579351003843" />
+    <state width="1372" height="206" key="GridCell.Tab.0.left" timestamp="1579351003842">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1352" height="206" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1579115545665" />
+    <state width="1372" height="206" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1579351003842" />
+    <state width="1372" height="206" key="GridCell.Tab.0.right" timestamp="1579351003844">
+      <screen x="0" y="0" width="1600" height="876" />
+    </state>
+    <state width="1372" height="206" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1579351003844" />
+    <state x="562" y="197" width="434" height="484" key="RefactorJ.WrapReturnValue" timestamp="1579341329367">
+      <screen x="0" y="0" width="1600" height="876" />
+    </state>
+    <state x="562" y="197" width="434" height="484" key="RefactorJ.WrapReturnValue/0.0.1600.876@0.0.1600.876" timestamp="1579341329367" />
     <state x="614" y="151" width="364" height="574" key="RollbackChangesDialog" timestamp="1579113901583">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -221,14 +226,14 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="289" y="73" key="SettingsEditor/0.0.1600.876@0.0.1600.876" timestamp="1578942843748" />
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579112695932">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579116425595">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1579112695932" />
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1579109575211">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1579116425595" />
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1579338756374">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1579109575211" />
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1579338756374" />
     <state x="445" y="34" width="710" height="807" key="find.popup" timestamp="1579113403512">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
