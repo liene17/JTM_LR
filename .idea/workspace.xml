@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7badf164-9fcc-4792-a07c-81912c937e31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/JTM.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/JTM.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity03/RandomPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity03/RandomPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity03/RandomPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity03/RandomPerson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/extra01/GetOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/extra01/GetOne.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,24 +176,46 @@
       <option name="project" value="LOCAL" />
       <updated>1579116421825</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fundementals">
+      <created>1579351047225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579351047225</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fundementals">
+      <created>1579351151828</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579351151828</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fundementals">
+      <created>1579351157519</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579351157519</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello" />
     <MESSAGE value="Hello 2" />
     <MESSAGE value="Extra1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Extra1" />
+    <MESSAGE value="fundementals" />
+    <option name="LAST_COMMIT_MESSAGE" value="fundementals" />
   </component>
   <component name="WindowStateProjectService">
     <state x="608" y="125" width="376" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1579335364449">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="608" y="125" width="376" height="626" key="#com.intellij.ide.util.MemberChooser/0.0.1600.876@0.0.1600.876" timestamp="1579335364449" />
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1579351151693">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1579351157455">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1579351151693" />
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1579351157455" />
     <state width="1372" height="206" key="GridCell.Tab.0.bottom" timestamp="1579351003845">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -226,10 +244,10 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="289" y="73" key="SettingsEditor/0.0.1600.876@0.0.1600.876" timestamp="1578942843748" />
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579351053191">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579351161075">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1579351053191" />
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1579351161075" />
     <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1579338756374">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
