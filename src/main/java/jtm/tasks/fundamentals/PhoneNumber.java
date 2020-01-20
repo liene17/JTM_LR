@@ -16,7 +16,21 @@ public class PhoneNumber {
      */
 
     public static String createPhoneNumber(int[] numbers) {
-      return String.format("(%d%d%d) %d%d%d-%d%d%d%d", numbers[0], numbers[1], numbers[2], numbers[3], numbers[4],
-              numbers[5], numbers[6], numbers[7], numbers[8], numbers[9] );
+        return String.format("(%d%d%d) %d%d%d-%d%d%d%d", numbers[0], numbers[1], numbers[2], numbers[3], numbers[4],
+        numbers[5], numbers[6], numbers[7], numbers[8], numbers[9]);
+
+//        StringBuilder str = new StringBuilder("(");
+//        for (int i = 0; i < numbers.length; i++) {
+//            if (i == 3) {
+//                str.append(") ");
+//            }
+//            else if (i == 6) {
+//                str.append("-");
+//            }
+//            str.append(numbers[i]);
+//        }
+//        return str.toString();
     }
 }
+
+
