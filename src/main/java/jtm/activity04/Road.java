@@ -65,6 +65,6 @@ public class Road {
 
 	@Override
 	public String toString() {
-		return "From - To, 00km" + this.from + this.to + this.distance;
+		return getFrom() + " — " + getTo() + ", " + getDistance() + "km";
 	}
 }

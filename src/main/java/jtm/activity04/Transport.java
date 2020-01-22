@@ -20,7 +20,7 @@ public class Transport {
 		this.id = id;
 		this.consumption = consumption;
 		this.tankSize = tankSize;
-
+		this.fuelInTank = tankSize;
 	}
 	/*- TODO #2
 	 * Generate getters and Setters for consumption, tankSize, id, and fuelInTank fields
@@ -33,27 +33,26 @@ public class Transport {
 	public void setId(String id) {
 		this.id = id;
 	}
-
 	public float getConsumption() {
+
 		return consumption;
 	}
-
 	public void setConsumption(float consumption) {
+
 		this.consumption = consumption;
 	}
-
 	public int getTankSize() {
+
 		return tankSize;
 	}
-
 	public void setTankSize(int tankSize) {
+
 		this.tankSize = tankSize;
 	}
-
 	public float getFuelInTank() {
+
 		return fuelInTank;
 	}
-
 	public void setFuelInTank(float fuelInTank) {
 		this.fuelInTank = fuelInTank;
 	}
@@ -68,7 +67,7 @@ public class Transport {
 
 	@Override
 	public String toString() {
-		return String.format(Locale.US,"Id:%s, cons:%dl/100km, tank:%dl, fuel:%.2f",
+		return String.format(Locale.US,"Id:%s cons:%.1fl/100km, tank:%dl, fuel:%.2fl",
 				this.id, this.consumption, this.tankSize, this.fuelInTank);
 	}
 
@@ -90,15 +89,15 @@ public class Transport {
 		// "AAA Type is moving on From–To, 180km"
 		float fuelSpent = (road.getDistance() * getConsumption()) / 100;
 			if(fuelSpent <= this.getFuelInTank()){
-				return getType() + road.toString();
-			}else{
-
+				fuelInTank=fuelInTank-fuelSpent;
+				return getId() + " " + getType() + " is moving on " + road.toString();
+			}else {
+				// TODO If there is no enough fuel in tank, return string in form:
+				// "Cannot move on From–To, 180km. Necessary
+				// fuel:0.00l, fuel in tank:0.00l"
+				return "Cannot move on " + road.toString() + String.format(Locale.US, ". Necessary fuel:%.2fl, " +
+								"fuel in tank:%.2fl", fuelSpent, getFuelInTank());
 			}
-
-		// TODO If there is no enough fuel in tank, return string in form:
-		// "Cannot move on From–To, 180km. Necessary
-		// fuel:0.00l, fuel in tank:0.00l"
-		return "";
 	}
 
 }
