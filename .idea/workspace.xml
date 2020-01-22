@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7badf164-9fcc-4792-a07c-81912c937e31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity04/Road.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity04/Road.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity04/TrafficManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity04/TrafficManagementSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity04/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity04/Transport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity04/Transport.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity04/Transport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/extra05/XMLCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/extra05/XMLCars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity04/Road.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity04/Road.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity04/TrafficManagementSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity04/TrafficManagementSystem.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,32 +46,30 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="JUnit.TrafficManagementTest1">
-    <configuration name="DiceHistogramTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jtm.activity03.Array" />
       <module name="JTM_LR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jtm.tasks.fundamentals.*" />
+          <option name="PATTERN" value="jtm.activity03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jtm.tasks.fundamentals" />
-      <option name="MAIN_CLASS_NAME" value="jtm.tasks.fundamentals.DiceHistogramTest1" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenNumbersTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EncapsulationTests1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jtm.tasks.fundamentals.*" />
+          <option name="PATTERN" value="jtm.activity05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jtm.tasks.fundamentals" />
-      <option name="MAIN_CLASS_NAME" value="jtm.tasks.fundamentals.EvenNumbersTest1" />
+      <option name="PACKAGE_NAME" value="jtm.activity05" />
+      <option name="MAIN_CLASS_NAME" value="jtm.activity05.EncapsulationTests1" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array" />
+        <item itemvalue="JUnit.EncapsulationTests1" />
         <item itemvalue="JUnit.TrafficManagementTest1" />
         <item itemvalue="JUnit.TenMinWalkTest1" />
         <item itemvalue="JUnit.PhoneNumberTest1" />
-        <item itemvalue="JUnit.DiceHistogramTest1" />
-        <item itemvalue="JUnit.EvenNumbersTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579548528556</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="activity04">
+      <created>1579714006826</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579714006826</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,13 +238,18 @@
     <MESSAGE value="Hello 2" />
     <MESSAGE value="Extra1" />
     <MESSAGE value="fundementals" />
-    <option name="LAST_COMMIT_MESSAGE" value="fundementals" />
+    <MESSAGE value="activity04" />
+    <option name="LAST_COMMIT_MESSAGE" value="activity04" />
   </component>
   <component name="WindowStateProjectService">
     <state x="374" y="79" width="802" height="780" key="#Intentions" timestamp="1579711388310">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="374" y="79" width="802" height="780" key="#Intentions/0.0.1600.876@0.0.1600.876" timestamp="1579711388310" />
+    <state x="237" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579714854102">
+      <screen x="0" y="0" width="1600" height="876" />
+    </state>
+    <state x="237" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.876@0.0.1600.876" timestamp="1579714854102" />
     <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1579711869359">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -249,26 +258,26 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="694" y="159" width="802" height="677" key="#toString()_Generation_Settings/0.0.1600.876@0.0.1600.876" timestamp="1579544210751" />
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1579548528428">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1579717730528">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1579548528428" />
-    <state width="1372" height="206" key="GridCell.Tab.0.bottom" timestamp="1579713932564">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1579717730528" />
+    <state width="1372" height="206" key="GridCell.Tab.0.bottom" timestamp="1579714759821">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1579713932564" />
-    <state width="1372" height="206" key="GridCell.Tab.0.center" timestamp="1579713932564">
+    <state width="1372" height="206" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1579714759821" />
+    <state width="1372" height="206" key="GridCell.Tab.0.center" timestamp="1579714759820">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1579713932564" />
-    <state width="1372" height="206" key="GridCell.Tab.0.left" timestamp="1579713932563">
+    <state width="1372" height="206" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1579714759820" />
+    <state width="1372" height="206" key="GridCell.Tab.0.left" timestamp="1579714759820">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1579713932563" />
-    <state width="1372" height="206" key="GridCell.Tab.0.right" timestamp="1579713932564">
+    <state width="1372" height="206" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1579714759820" />
+    <state width="1372" height="206" key="GridCell.Tab.0.right" timestamp="1579714759821">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1579713932564" />
+    <state width="1372" height="206" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1579714759821" />
     <state x="562" y="197" width="434" height="484" key="RefactorJ.WrapReturnValue" timestamp="1579341329367">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -281,10 +290,10 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="289" y="73" key="SettingsEditor/0.0.1600.876@0.0.1600.876" timestamp="1578942843748" />
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579548530298">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579714008928">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1579548530298" />
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1579714008928" />
     <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1579710287423">
       <screen x="0" y="0" width="1600" height="876" />
     </state>

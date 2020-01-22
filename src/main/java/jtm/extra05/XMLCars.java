@@ -3,13 +3,19 @@ package jtm.extra05;
 
 // TODO #1
 // Import necessary classes from javax.xml.* and, if necessary org.w3c.dom.*
-
+import javax.xml.*;
+import org.w3c.dom.*;
 public class XMLCars {
 
 	/*- TODO #2
 	 * Declare static variables to remember previously generated structure of XML
 	 */
-
+	static int id;
+	static String model;
+	static String color;
+	static int year;
+	static float price;
+	static String notes;
 
 	public void addCar(int id, String model, String color, int year, float price, String notes) throws Exception {
 		// TODO #3
@@ -28,7 +34,6 @@ public class XMLCars {
 		 *   Look at https://docs.oracle.com/javase/7/docs/api/javax/xml/parsers/DocumentBuilder.html and
 		 *           https://docs.oracle.com/javase/7/docs/api/org/w3c/dom/package-summary.html
 		 */
-
 
 	}
 
