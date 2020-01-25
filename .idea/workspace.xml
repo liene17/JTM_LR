@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7badf164-9fcc-4792-a07c-81912c937e31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity05/Amphibia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity05/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity05/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity05/WaterRoad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/extra05/XMLCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/extra05/XMLCars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity04/Road.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity04/Road.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity04/TrafficManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity04/TrafficManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity04/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity04/Transport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity04/Road.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity04/Road.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity04/TrafficManagementSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity04/TrafficManagementSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity04/Transport.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity04/Transport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/extra05/XMLCars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/extra05/XMLCars.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +51,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="JUnit.EncapsulationTests1">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jtm.activity03.Array" />
       <module name="JTM_LR" />
@@ -122,8 +129,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array" />
         <item itemvalue="JUnit.EncapsulationTests1" />
+        <item itemvalue="Application.Array" />
         <item itemvalue="JUnit.TrafficManagementTest1" />
         <item itemvalue="JUnit.TenMinWalkTest1" />
         <item itemvalue="JUnit.PhoneNumberTest1" />
@@ -250,34 +257,34 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="237" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.876@0.0.1600.876" timestamp="1579714854102" />
-    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1579711869359">
+    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1579893097579">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser/0.0.1600.876@0.0.1600.876" timestamp="1579711869359" />
+    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser/0.0.1600.876@0.0.1600.876" timestamp="1579893097579" />
     <state x="694" y="159" width="802" height="677" key="#toString()_Generation_Settings" timestamp="1579544210751">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="694" y="159" width="802" height="677" key="#toString()_Generation_Settings/0.0.1600.876@0.0.1600.876" timestamp="1579544210751" />
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1579717730528">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1579717750617">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1579717730528" />
-    <state width="1372" height="206" key="GridCell.Tab.0.bottom" timestamp="1579714759821">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1579717750617" />
+    <state width="1372" height="206" key="GridCell.Tab.0.bottom" timestamp="1579941929646">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1579714759821" />
-    <state width="1372" height="206" key="GridCell.Tab.0.center" timestamp="1579714759820">
+    <state width="1372" height="206" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1579941929646" />
+    <state width="1372" height="206" key="GridCell.Tab.0.center" timestamp="1579941929645">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1579714759820" />
-    <state width="1372" height="206" key="GridCell.Tab.0.left" timestamp="1579714759820">
+    <state width="1372" height="206" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1579941929645" />
+    <state width="1372" height="206" key="GridCell.Tab.0.left" timestamp="1579941929645">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1579714759820" />
-    <state width="1372" height="206" key="GridCell.Tab.0.right" timestamp="1579714759821">
+    <state width="1372" height="206" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1579941929645" />
+    <state width="1372" height="206" key="GridCell.Tab.0.right" timestamp="1579941929646">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1372" height="206" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1579714759821" />
+    <state width="1372" height="206" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1579941929646" />
     <state x="562" y="197" width="434" height="484" key="RefactorJ.WrapReturnValue" timestamp="1579341329367">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -286,18 +293,22 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="614" y="151" width="364" height="574" key="RollbackChangesDialog/0.0.1600.876@0.0.1600.876" timestamp="1579539669765" />
-    <state x="289" y="73" key="SettingsEditor" timestamp="1578942843748">
+    <state x="289" y="73" key="SettingsEditor" timestamp="1579886484973">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="289" y="73" key="SettingsEditor/0.0.1600.876@0.0.1600.876" timestamp="1578942843748" />
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579714008928">
+    <state x="289" y="73" key="SettingsEditor/0.0.1600.876@0.0.1600.876" timestamp="1579886484973" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1579886011315">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1579714008928" />
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1579710287423">
+    <state width="498" height="446" key="SwitcherDM/0.0.1600.876@0.0.1600.876" timestamp="1579886011315" />
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579717760859">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1579710287423" />
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1579717760859" />
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1579939842123">
+      <screen x="0" y="0" width="1600" height="876" />
+    </state>
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1579939842123" />
     <state x="445" y="34" width="710" height="807" key="find.popup" timestamp="1579113403512">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -306,5 +317,9 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="442" y="186" key="run.anything.popup/0.0.1600.876@0.0.1600.876" timestamp="1579710471848" />
+    <state x="442" y="178" width="672" height="678" key="search.everywhere.popup" timestamp="1579886432615">
+      <screen x="0" y="0" width="1600" height="876" />
+    </state>
+    <state x="442" y="178" width="672" height="678" key="search.everywhere.popup/0.0.1600.876@0.0.1600.876" timestamp="1579886432615" />
   </component>
 </project>
