@@ -27,6 +27,7 @@ public class DiceHistogram {
         1|####### 7
      */
     public static String histogram(final int results[]) {
+
         return null;
 
     }
