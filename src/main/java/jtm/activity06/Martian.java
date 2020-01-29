@@ -3,26 +3,34 @@ package jtm.activity06;
 public class Martian implements Humanoid, Alien, Cloneable {
     private int weight;
     final static int LEG_COUNT = 7;
+    final static int ARM_COUNT = 2;
+    private String[] items;
+    private boolean alive;
 
 
     public Martian() {
         this.weight = 42;
+        this.items = new String[10];
     }
 
     @Override
     protected Object clone() throws CloneNotSupportedException {
-        return super.clone();
+        Martian martian = new Martian();
+        martian.setWeight(weight);
+        return martian;
     }
 
     @Override
     public void eatHuman(Humanoid humanoid) {
-
-
+        if(humanoid.isAlive().equals("Alive")){
+           this.weight = humanoid.getWeight() + this.weight;
+           humanoid.killHimself();
+        }
     }
 
     @Override
     public int getLegCount() {
-        return 0;
+        return LEG_COUNT;
     }
 
     @Override
@@ -38,26 +46,35 @@ public class Martian implements Humanoid, Alien, Cloneable {
 
     @Override
     public String killHimself() {
-        return null;
+        if(this.alive == true) {
+        }
+        return "I AM IMMORTAL!";
     }
 
     @Override
     public int getArmCount() {
-        return 0;
+        return ARM_COUNT;
     }
 
     @Override
     public String[] getBackpack() {
-        return new String[0];
+        return this.items;
     }
 
     @Override
     public void addToBackpack(String item) {
-
+        for (int i = 0; i < items.length; i++) {
+            if (items[i] == null) {
+                items[i] = item;
+                break;
+            }
+        }
     }
 
     @Override
     public String isAlive() {
-        return null;
+        if (this.alive == true) {
+        }
+        return "I AM IMMORTAL!";
     }
 }

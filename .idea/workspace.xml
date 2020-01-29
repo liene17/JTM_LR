@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7badf164-9fcc-4792-a07c-81912c937e31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity06/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity06/Martian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/JTM.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/JTM.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity06/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity06/Alien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity06/Humanoid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity06/Humanoid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity06/Alien.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity06/Alien.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity06/Humanoid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity06/Humanoid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity06/Martian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity06/Martian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/extra02/ArrayListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/extra02/ArrayListMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +45,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="JUnit.InterfaceTests1">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jtm.activity03.Array" />
+  <component name="RunManager" selected="JUnit.ArrayListMethodsTest1">
+    <configuration name="ArrayListMethodsTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jtm.activity03.*" />
+          <option name="PATTERN" value="jtm.extra02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="jtm.extra02" />
+      <option name="MAIN_CLASS_NAME" value="jtm.extra02.ArrayListMethodsTest1" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayListMethodsTest1" />
         <item itemvalue="JUnit.InterfaceTests1" />
         <item itemvalue="JUnit.DiceHistogramTest1" />
         <item itemvalue="JUnit.ZodiacTest1" />
         <item itemvalue="JUnit.EncapsulationTests1" />
-        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579955011234</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="activity06">
+      <created>1580152932046</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580152932047</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,7 +262,8 @@
     <MESSAGE value="fundementals" />
     <MESSAGE value="activity04" />
     <MESSAGE value="activity05" />
-    <option name="LAST_COMMIT_MESSAGE" value="activity05" />
+    <MESSAGE value="activity06" />
+    <option name="LAST_COMMIT_MESSAGE" value="activity06" />
   </component>
   <component name="WindowStateProjectService">
     <state x="374" y="79" width="802" height="780" key="#Intentions" timestamp="1579711388310">
@@ -281,26 +286,26 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="694" y="159" width="802" height="677" key="#toString()_Generation_Settings/0.0.1600.876@0.0.1600.876" timestamp="1579544210751" />
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1579955011113">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1580152931861">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1579955011113" />
-    <state width="1395" height="206" key="GridCell.Tab.0.bottom" timestamp="1580149511562">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1580152931861" />
+    <state width="1395" height="206" key="GridCell.Tab.0.bottom" timestamp="1580321915212">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1395" height="206" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1580149511562" />
-    <state width="1395" height="206" key="GridCell.Tab.0.center" timestamp="1580149511562">
+    <state width="1395" height="206" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1580321915212" />
+    <state width="1395" height="206" key="GridCell.Tab.0.center" timestamp="1580321915211">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1395" height="206" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1580149511562" />
-    <state width="1395" height="206" key="GridCell.Tab.0.left" timestamp="1580149511561">
+    <state width="1395" height="206" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1580321915211" />
+    <state width="1395" height="206" key="GridCell.Tab.0.left" timestamp="1580321915210">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1395" height="206" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1580149511561" />
-    <state width="1395" height="206" key="GridCell.Tab.0.right" timestamp="1580149511562">
+    <state width="1395" height="206" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1580321915210" />
+    <state width="1395" height="206" key="GridCell.Tab.0.right" timestamp="1580321915211">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1395" height="206" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1580149511562" />
+    <state width="1395" height="206" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1580321915211" />
     <state x="562" y="197" width="434" height="484" key="RefactorJ.WrapReturnValue" timestamp="1579341329367">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -317,14 +322,14 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1600.876@0.0.1600.876" timestamp="1579886011315" />
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579955012906">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1580152933591">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1579955012906" />
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1580143944141">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1580152933591" />
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1580315983310">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1580143944141" />
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1580315983310" />
     <state x="693" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579952247275">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
