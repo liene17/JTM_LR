@@ -2,11 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7badf164-9fcc-4792-a07c-81912c937e31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity08/SimpleCalcException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/JTM.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/JTM.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity09/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity09/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity09/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity09/Orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/extra02/ArrayListMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/extra02/ArrayListMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity07/AnimalTests1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity07/TODO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity08/SimpleCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity08/SimpleCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity10/StreamEditor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity10/StreamEditorTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity10/TODO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/Activity11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/Activity11.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/ArrayFiller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/ArrayFillerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/ArrayFillerManagerTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/TODO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity13/DatabaseTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity13/TODO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity13/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity13/TeacherManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity13/database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity09/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity09/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity09/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity09/Orders.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +52,22 @@
     </option>
   </component>
   <component name="ProjectId" id="1WLxgBTlsBca2Po8BtvVgZm0F4A" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DemoProject" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="JUnit.OrdersTests1">
+  <component name="RunManager" selected="JUnit.SimpleCalcTests1">
     <configuration name="ArrayListMethodsTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
       <extension name="coverage">
@@ -108,16 +128,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZodiacTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleCalcTests1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jtm.extra01.*" />
+          <option name="PATTERN" value="jtm.activity08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jtm.extra01" />
-      <option name="MAIN_CLASS_NAME" value="jtm.extra01.ZodiacTest1" />
+      <option name="PACKAGE_NAME" value="jtm.activity08" />
+      <option name="MAIN_CLASS_NAME" value="jtm.activity08.SimpleCalcTests1" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SimpleCalcTests1" />
         <item itemvalue="JUnit.OrdersTests1" />
         <item itemvalue="JUnit.ArrayListMethodsTest1" />
         <item itemvalue="JUnit.InterfaceTests1" />
         <item itemvalue="JUnit.DiceHistogramTest1" />
-        <item itemvalue="JUnit.ZodiacTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -261,10 +281,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580323591604</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="activity09">
+      <created>1580498060066</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580498060067</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Hello" />
     <MESSAGE value="Hello 2" />
     <MESSAGE value="Extra1" />
@@ -272,7 +300,8 @@
     <MESSAGE value="activity04" />
     <MESSAGE value="activity05" />
     <MESSAGE value="activity06" />
-    <option name="LAST_COMMIT_MESSAGE" value="activity06" />
+    <MESSAGE value="activity09" />
+    <option name="LAST_COMMIT_MESSAGE" value="activity09" />
   </component>
   <component name="WindowStateProjectService">
     <state x="374" y="79" width="802" height="780" key="#Intentions" timestamp="1579711388310">
@@ -287,34 +316,38 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="704" y="100" width="685" height="636" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.876@0.0.1600.876" timestamp="1580498006899" />
-    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1580495570939">
+    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1581357921725">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser/0.0.1600.876@0.0.1600.876" timestamp="1580495570939" />
+    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser/0.0.1600.876@0.0.1600.876" timestamp="1581357921725" />
     <state x="694" y="159" width="802" height="677" key="#toString()_Generation_Settings" timestamp="1579544210751">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="694" y="159" width="802" height="677" key="#toString()_Generation_Settings/0.0.1600.876@0.0.1600.876" timestamp="1579544210751" />
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1580323591398">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1580498059871">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1580323591398" />
-    <state width="1395" height="270" key="GridCell.Tab.0.bottom" timestamp="1580498026665">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1580498059871" />
+    <state x="562" y="200" width="426" height="484" key="FileChooserDialogImpl" timestamp="1581358007252">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1395" height="270" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1580498026665" />
-    <state width="1395" height="270" key="GridCell.Tab.0.center" timestamp="1580498026664">
+    <state x="562" y="200" width="426" height="484" key="FileChooserDialogImpl/0.0.1600.876@0.0.1600.876" timestamp="1581358007252" />
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom" timestamp="1581360910325">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1395" height="270" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1580498026664" />
-    <state width="1395" height="270" key="GridCell.Tab.0.left" timestamp="1580498026664">
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1581360910325" />
+    <state width="1493" height="169" key="GridCell.Tab.0.center" timestamp="1581360910325">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1395" height="270" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1580498026664" />
-    <state width="1395" height="270" key="GridCell.Tab.0.right" timestamp="1580498026665">
+    <state width="1493" height="169" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1581360910325" />
+    <state width="1493" height="169" key="GridCell.Tab.0.left" timestamp="1581360910324">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1395" height="270" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1580498026665" />
+    <state width="1493" height="169" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1581360910324" />
+    <state width="1493" height="169" key="GridCell.Tab.0.right" timestamp="1581360910325">
+      <screen x="0" y="0" width="1600" height="876" />
+    </state>
+    <state width="1493" height="169" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1581360910325" />
     <state x="562" y="197" width="434" height="484" key="RefactorJ.WrapReturnValue" timestamp="1579341329367">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -331,14 +364,14 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1600.876@0.0.1600.876" timestamp="1579886011315" />
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1580323593317">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1580498069540">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1580323593317" />
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1580488163154">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1580498069540" />
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1581357409294">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1580488163154" />
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1581357409294" />
     <state x="693" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579952247275">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
