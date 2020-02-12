@@ -2,28 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7badf164-9fcc-4792-a07c-81912c937e31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity08/SimpleCalcException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/FileCopyTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/PersonRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/PersonRepoTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra12/SHA256Cracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra12/SHA256CrackerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra13/ConferenceTraveller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra13/ConferenceTravellerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra14/CoinFlip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra14/CoinFlipTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra15/MorseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra15/MorseCodeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra15/MorseLetters.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/JTM.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/JTM.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity07/AnimalTests1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity07/TODO.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity08/SimpleCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity08/SimpleCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity10/StreamEditor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity10/StreamEditorTest1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity10/TODO.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/Activity11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/Activity11.uxf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/ArrayFiller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/ArrayFillerManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/ArrayFillerManagerTest1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity11/TODO.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity13/DatabaseTest1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity13/TODO.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity13/Teacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity13/TeacherManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity13/database.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity09/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity09/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity09/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity09/Orders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity07/AnimalTests1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity08/SimpleCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity08/SimpleCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity10/StreamEditor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity10/StreamEditorTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity11/ArrayFiller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity11/ArrayFillerManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity11/ArrayFillerManagerTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity13/DatabaseTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity13/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity13/TeacherManager.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +71,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DemoProject" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="JUnit.SimpleCalcTests1">
+  <component name="RunManager" selected="JUnit.FileCopyTest1">
     <configuration name="ArrayListMethodsTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
       <extension name="coverage">
@@ -83,16 +87,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiceHistogramTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FileCopyTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jtm.tasks.fundamentals.*" />
+          <option name="PATTERN" value="jtm.activity10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="jtm.tasks.fundamentals" />
-      <option name="MAIN_CLASS_NAME" value="jtm.tasks.fundamentals.DiceHistogramTest1" />
+      <option name="PACKAGE_NAME" value="jtm.activity10" />
+      <option name="MAIN_CLASS_NAME" value="jtm.activity10.FileCopyTest1" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FileCopyTest1" />
         <item itemvalue="JUnit.SimpleCalcTests1" />
         <item itemvalue="JUnit.OrdersTests1" />
         <item itemvalue="JUnit.ArrayListMethodsTest1" />
         <item itemvalue="JUnit.InterfaceTests1" />
-        <item itemvalue="JUnit.DiceHistogramTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580498060067</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="activity08">
+      <created>1581360929610</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1581360929610</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -301,7 +312,8 @@
     <MESSAGE value="activity05" />
     <MESSAGE value="activity06" />
     <MESSAGE value="activity09" />
-    <option name="LAST_COMMIT_MESSAGE" value="activity09" />
+    <MESSAGE value="activity08" />
+    <option name="LAST_COMMIT_MESSAGE" value="activity08" />
   </component>
   <component name="WindowStateProjectService">
     <state x="374" y="79" width="802" height="780" key="#Intentions" timestamp="1579711388310">
@@ -324,38 +336,38 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="694" y="159" width="802" height="677" key="#toString()_Generation_Settings/0.0.1600.876@0.0.1600.876" timestamp="1579544210751" />
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1580498059871">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1581360929450">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1580498059871" />
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1581360929450" />
     <state x="562" y="200" width="426" height="484" key="FileChooserDialogImpl" timestamp="1581358007252">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="562" y="200" width="426" height="484" key="FileChooserDialogImpl/0.0.1600.876@0.0.1600.876" timestamp="1581358007252" />
-    <state width="1493" height="169" key="GridCell.Tab.0.bottom" timestamp="1581360910325">
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom" timestamp="1581529376976">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1581360910325" />
-    <state width="1493" height="169" key="GridCell.Tab.0.center" timestamp="1581360910325">
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1581529376975" />
+    <state width="1493" height="169" key="GridCell.Tab.0.center" timestamp="1581529376974">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1581360910325" />
-    <state width="1493" height="169" key="GridCell.Tab.0.left" timestamp="1581360910324">
+    <state width="1493" height="169" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1581529376974" />
+    <state width="1493" height="169" key="GridCell.Tab.0.left" timestamp="1581529376973">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1581360910324" />
-    <state width="1493" height="169" key="GridCell.Tab.0.right" timestamp="1581360910325">
+    <state width="1493" height="169" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1581529376973" />
+    <state width="1493" height="169" key="GridCell.Tab.0.right" timestamp="1581529376975">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1581360910325" />
+    <state width="1493" height="169" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1581529376975" />
     <state x="562" y="197" width="434" height="484" key="RefactorJ.WrapReturnValue" timestamp="1579341329367">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="562" y="197" width="434" height="484" key="RefactorJ.WrapReturnValue/0.0.1600.876@0.0.1600.876" timestamp="1579341329367" />
-    <state x="614" y="151" width="364" height="574" key="RollbackChangesDialog" timestamp="1579953329307">
+    <state x="614" y="151" width="364" height="574" key="RollbackChangesDialog" timestamp="1581531400610">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="614" y="151" width="364" height="574" key="RollbackChangesDialog/0.0.1600.876@0.0.1600.876" timestamp="1579953329307" />
+    <state x="614" y="151" width="364" height="574" key="RollbackChangesDialog/0.0.1600.876@0.0.1600.876" timestamp="1581531400610" />
     <state x="289" y="73" key="SettingsEditor" timestamp="1579886484973">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -364,14 +376,14 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1600.876@0.0.1600.876" timestamp="1579886011315" />
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1580498069540">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581360931892">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1580498069540" />
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1581357409294">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1581360931892" />
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1581526116802">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1581357409294" />
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1581526116802" />
     <state x="693" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579952247275">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
