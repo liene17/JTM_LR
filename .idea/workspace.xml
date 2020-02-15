@@ -2,37 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7badf164-9fcc-4792-a07c-81912c937e31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/FileCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/FileCopyTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/PersonRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/PersonRepoTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra12/SHA256Cracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra12/SHA256CrackerTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra13/ConferenceTraveller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra13/ConferenceTravellerTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra14/CoinFlip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra14/CoinFlipTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra15/MorseCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra15/MorseCodeTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jtm/extra15/MorseLetters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/JTM.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/JTM.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity07/AnimalTests1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity08/SimpleCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jtm/activity08/SimpleCalc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity10/StreamEditor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity10/StreamEditorTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity11/ArrayFiller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity11/ArrayFillerManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity11/ArrayFillerManagerTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity13/DatabaseTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity13/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jtm/activity13/TeacherManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity10/FileCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/FileCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity10/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jtm/activity10/PersonRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jtm/activity10/PersonRepo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="216" />
   </component>
   <component name="ErrorTreeViewConfiguration">
     <option name="hideInfoMessages" value="true" />
@@ -71,7 +53,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DemoProject" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="JUnit.FileCopyTest1">
+  <component name="RunManager" selected="JUnit.PersonRepoTest1">
     <configuration name="ArrayListMethodsTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
       <extension name="coverage">
@@ -102,21 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceTests1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JTM_LR" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jtm.activity06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="jtm.activity06" />
-      <option name="MAIN_CLASS_NAME" value="jtm.activity06.InterfaceTests1" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OrdersTests1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JTM_LR" />
       <extension name="coverage">
@@ -127,6 +94,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="jtm.activity09" />
       <option name="MAIN_CLASS_NAME" value="jtm.activity09.OrdersTests1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonRepoTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JTM_LR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jtm.activity10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jtm.activity10" />
+      <option name="MAIN_CLASS_NAME" value="jtm.activity10.PersonRepoTest1" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -149,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PersonRepoTest1" />
         <item itemvalue="JUnit.FileCopyTest1" />
         <item itemvalue="JUnit.SimpleCalcTests1" />
         <item itemvalue="JUnit.OrdersTests1" />
         <item itemvalue="JUnit.ArrayListMethodsTest1" />
-        <item itemvalue="JUnit.InterfaceTests1" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581360929610</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="activity10">
+      <created>1581531611277</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1581531611277</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -313,7 +302,8 @@
     <MESSAGE value="activity06" />
     <MESSAGE value="activity09" />
     <MESSAGE value="activity08" />
-    <option name="LAST_COMMIT_MESSAGE" value="activity08" />
+    <MESSAGE value="activity10" />
+    <option name="LAST_COMMIT_MESSAGE" value="activity10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="374" y="79" width="802" height="780" key="#Intentions" timestamp="1579711388310">
@@ -328,38 +318,42 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="704" y="100" width="685" height="636" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.876@0.0.1600.876" timestamp="1580498006899" />
-    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1581357921725">
+    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1581755598132">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser/0.0.1600.876@0.0.1600.876" timestamp="1581357921725" />
+    <state x="826" y="184" width="546" height="626" key="#com.intellij.ide.util.MemberChooser/0.0.1600.876@0.0.1600.876" timestamp="1581755598132" />
     <state x="694" y="159" width="802" height="677" key="#toString()_Generation_Settings" timestamp="1579544210751">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="694" y="159" width="802" height="677" key="#toString()_Generation_Settings/0.0.1600.876@0.0.1600.876" timestamp="1579544210751" />
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1581360929450">
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2" timestamp="1581531611028">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1581360929450" />
+    <state x="259" y="34" width="1074" height="807" key="CommitChangelistDialog2/0.0.1600.876@0.0.1600.876" timestamp="1581531611028" />
     <state x="562" y="200" width="426" height="484" key="FileChooserDialogImpl" timestamp="1581358007252">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="562" y="200" width="426" height="484" key="FileChooserDialogImpl/0.0.1600.876@0.0.1600.876" timestamp="1581358007252" />
-    <state width="1493" height="169" key="GridCell.Tab.0.bottom" timestamp="1581529376976">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1581770693220">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1581529376975" />
-    <state width="1493" height="169" key="GridCell.Tab.0.center" timestamp="1581529376974">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1600.876@0.0.1600.876" timestamp="1581770693220" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1581770693219">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1581529376974" />
-    <state width="1493" height="169" key="GridCell.Tab.0.left" timestamp="1581529376973">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1600.876@0.0.1600.876" timestamp="1581770693219" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1581770693219">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1581529376973" />
-    <state width="1493" height="169" key="GridCell.Tab.0.right" timestamp="1581529376975">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1600.876@0.0.1600.876" timestamp="1581770693219" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1581770693220">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1581529376975" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1600.876@0.0.1600.876" timestamp="1581770693220" />
+    <state x="362" y="76" width="926" height="684" key="Maven.ArtifactSearchDialog" timestamp="1581756540018">
+      <screen x="0" y="0" width="1600" height="876" />
+    </state>
+    <state x="362" y="76" width="926" height="684" key="Maven.ArtifactSearchDialog/0.0.1600.876@0.0.1600.876" timestamp="1581756540018" />
     <state x="562" y="197" width="434" height="484" key="RefactorJ.WrapReturnValue" timestamp="1579341329367">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -376,14 +370,14 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1600.876@0.0.1600.876" timestamp="1579886011315" />
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581360931892">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581531613420">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1581360931892" />
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1581526116802">
+    <state x="395" y="174" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1600.876@0.0.1600.876" timestamp="1581531613420" />
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1581764110656">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
-    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1581526116802" />
+    <state x="456" y="265" key="com.intellij.ide.util.TipDialog/0.0.1600.876@0.0.1600.876" timestamp="1581764110656" />
     <state x="693" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579952247275">
       <screen x="0" y="0" width="1600" height="876" />
     </state>
@@ -404,5 +398,10 @@
       <screen x="0" y="0" width="1600" height="876" />
     </state>
     <state x="442" y="178" width="672" height="678" key="search.everywhere.popup/0.0.1600.876@0.0.1600.876" timestamp="1579886432615" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JTM$PersonRepoTest1.ic" NAME="PersonRepoTest1 Coverage Results" MODIFIED="1581768065363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>jtm.activity10.*</FILTER>
+    </SUITE>
   </component>
 </project>

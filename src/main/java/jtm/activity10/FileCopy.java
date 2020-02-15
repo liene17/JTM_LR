@@ -1,11 +1,9 @@
 package jtm.activity10;
 
-import java.io.*;
-import java.nio.file.*;
-import java.util.ArrayList;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.List;
-
-import static org.assertj.core.api.Assertions.assertThat;
 
 public class FileCopy {
 
@@ -17,7 +15,11 @@ public class FileCopy {
         if file is data.txt copy should be named data.txt_backup
      */
     public void copyFile(String filePath) {
-        //17, 18 slaids
-
+        try {
+            List<String> linesInList = Files.readAllLines(Paths.get(filePath));
+            Files.write(Paths.get(filePath + "_backup"), linesInList);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }
