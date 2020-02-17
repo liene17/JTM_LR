@@ -56,10 +56,22 @@ public class PersonRepo {
 
     public String largestPopulation() {
         //Find country with largest population and return it's name
-        return null;
+        HashMap<String, Integer> largestPopulation = new HashMap<String, Integer>();
+        int temp = 0;
+        String middle = "";
+        for (int i = 0; i < personList.size(); i++) {
+            temp = 0;
+            middle = personList.get(i).getCountry();
+            if (largestPopulation.containsKey(middle)) {
+                temp = largestPopulation.get(middle);
+                largestPopulation.replace(middle, ++temp);
+            } else {
+                largestPopulation.put(personList.get(i).getCountry(), 1);
+            }
+        }
+        return Collections.max(largestPopulation.entrySet(), Comparator.comparingInt(Map.Entry::getValue)).getKey();
+
     }
-
-
 }
 
 
