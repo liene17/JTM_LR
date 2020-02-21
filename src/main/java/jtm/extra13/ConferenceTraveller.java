@@ -27,6 +27,7 @@ public class ConferenceTraveller {
      */
 
     public static String conferencePicker(String[] citiesVisited, String[] citiesOffered) {
+
        return null;
     }
 
