@@ -12,6 +12,9 @@ public class Main {
 
         Teacher teacher = new Teacher(100,"Roman","Franklin");
         //teacherManager.insertTeacher();
+        //teacherManager.findTeacher("John", "Doe");
+        teacherManager.insertTeacher("Lilly", "Smth");
+       // teacherManager.updateTeacher();
 
         //Use same approach for other methods
     }

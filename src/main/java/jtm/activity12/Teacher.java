@@ -6,7 +6,7 @@ public class Teacher {
 	private String firstName;
 	private String lastName;
 
-	public Teacher() {
+	public Teacher(String firstName, String lastName) {
 	}
 
 	public Teacher(int id, String firstName, String lastName) {
