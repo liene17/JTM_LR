@@ -13,7 +13,8 @@ public class ArrayListMethods {
 		// passed comparator.
 		// Return list with values that are smaller than comparator.
 		// Hint: Investigate how varargs are used.
-		Collections.sort(myList);
+
+
 		
 			return myList;
 		}
