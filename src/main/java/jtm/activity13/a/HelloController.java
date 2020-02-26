@@ -12,7 +12,7 @@ public class HelloController {
     public String hello(@RequestParam(required = false, defaultValue = "world") String name) {
         /* TODO
            Return string value in form Hello <name>!, where <name> is value from name parameter */
-        return "Hello " + name;
+        return "Hello " + name + "!";
     }
 
     /*
@@ -20,7 +20,8 @@ public class HelloController {
         Set REST method path to /numbers
      */
     @GetMapping("/numbers")
-    public String numbers(@RequestParam (defaultValue = "1") Integer from, @RequestParam (defaultValue = "20") Integer to) {
+    public String numbers(@RequestParam (defaultValue = "1") Integer from,
+                          @RequestParam (defaultValue = "20") Integer to) {
         /* TODO
            Add RequestParam annotations to both parameters, set both parameters as non-required,
            set default from value to "1", set default fo value to "20"
@@ -31,8 +32,10 @@ public class HelloController {
            Example: if from is 5 and to is 12, response should be 567891011
 
         */
-        return null;
+        String result = "";
+        for (int i = from; i < to; i++){
+            result = result + String.valueOf(i);
+        }
+        return result;
     }
-
-
 }
