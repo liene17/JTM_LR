@@ -15,24 +15,29 @@ public class Array {
 		// Hint: use Arrays.sort(...) from
 		// https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html
 		// START
+		int arraySize = args.length;
 
-		// END
+		array = new int[arraySize];
+		for (int i = 0; i < arraySize; i++) {
+			array[i] = Integer.parseInt(args[i]);
+		}
+		Arrays.sort(array);        // END
 	}
 
 	public static void printSortedArray() {
 		// TODO print content of array on standard output
 		// Hint: use Arrays.toString(array) method for this
 		// START
-
+		System.out.println(Arrays.toString(array));
 		// END
 	}
 
 	public static int[] returnSortedArray() {
 		// TODO return reference to this array
 		// START
-
+		Arrays.sort(array);
+		return array;
 		// END
-		return null;
 	}
 
 }
